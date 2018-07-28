@@ -9,9 +9,12 @@ Suponiendo que se satisfacen las dependencias tras instalar gnome:
 		P.ej: emerge pyxdg
 
 
-Las aplicaciones se configuran en /usr/share/applications.
+Las aplicaciones para gnome se configuran en /usr/share/applications.
+Si no funciona ver repo original.
+
 Se pueden crear manualmente los menús con:
 	gsettings get org.gnome.desktop.app-folders folder-children
 
 Ver en:
 	https://wiki.gentoo.org/wiki/Gnome_Applications_Folders
+
