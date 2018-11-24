@@ -6,8 +6,10 @@
 Suponiendo que se satisfacen las dependencias tras instalar gnome:
 
 	instalar xdg para python
-		P.ej: emerge pyxdg
+		P.ej gentoo: emerge pyxdg
 
+		En ubuntu tuve que instalar:
+			apt-install python-gi
 
 Las aplicaciones para gnome se configuran en /usr/share/applications.
 Si no funciona ver repo original.
